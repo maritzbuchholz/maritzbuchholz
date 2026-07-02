@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **maritzbuchholz@gmail.com**
 
-- ⚡ Fun fact **when I'm not coding, you'll find me playing either playing the drum, watching reality TV, or rooting for the Mets!**
+- ⚡ Fun fact **when I'm not coding, you'll find me playing either playing the drums, watching reality TV, or rooting for the Mets!**
 
 - 👨‍💻 All of my projects are available at **[https://maritzbuchholz.netlify.app/](https://maritzbuchholz.netlify.app/)**
 
