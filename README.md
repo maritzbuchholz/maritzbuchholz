@@ -1,6 +1,6 @@
 # Hi there 👋 my name is Maritz!
 
-### I am a backend with over a decade of experience in institutional finance
+### I am a backend dev with over a decade of experience in institutional finance
 
 - 🔭 I'm currently working on **a band website using MERN with MySQL**
 
