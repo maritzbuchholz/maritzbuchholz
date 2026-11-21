@@ -1,8 +1,10 @@
-### **Maritz Buchholz**
+<img src="name-banner.svg" alt="Maritz Buchholz" width="355" />
 
 Combining +10 years of Vice President-level financial systems authority with modern backend development
 
 ---
+
+Hi 👋 I'm Maritz! 
 
 I am a backend engineer who strives to write robust and efficient code while leveraging AI tools. With a background in finance and math, I approach every project with a commercial mindset and analytical rigor.
 
