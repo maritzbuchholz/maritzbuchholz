@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/maritzbuchholz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/maritzbuchholz" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/maritzbuchholz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maritzbuchholz/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/maritzbuchholz/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://maritzbuchholz.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-8E2F1E?style=for-the-badge" alt="Portfolio"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
