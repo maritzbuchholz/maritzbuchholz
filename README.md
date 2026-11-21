@@ -4,19 +4,16 @@ Combining +10 years of Vice President-level financial systems authority with mod
 
 ---
 
-Hi 👋 I'm Maritz! 
+Hi 👋 I'm **Maritz**! 
 
 I am a backend engineer who strives to write robust and efficient code while leveraging AI tools. With a background in finance and math, I approach every project with a commercial mindset and analytical rigor.
 
+- 🎸 Building [**Stare**](https://starenyhc.netlify.app/), a band merch store with Stripe Checkout
+- 🥁 Building [**Metalnome**](https://met6lnome.netlify.app/), a mobile-friendly metronome for metalheads
+- 🌱 Sharpening **data structures and algorithms** with LeetCode in Python
+- 📫 Email me at [maritzbuchholz@gmail.com](mailto:maritzbuchholz@gmail.com)
+
 When I'm not coding, you'll find me playing the drums, watching reality TV, or rooting for the Mets!
-
-- 🔭 I'm currently working on **a band website using MERN with MySQL**
-
-- 🌱 I'm currently learning **TypeScript**
-
-- 📫 Email at **maritzbuchholz@gmail.com**
-
-- 👨‍💻 Find my projects at **[https://maritzbuchholz.netlify.app/](https://maritzbuchholz.netlify.app/)**
 
 
 
